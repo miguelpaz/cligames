@@ -1,7 +1,7 @@
 # cligames
 
 ### Command Line games for journalists based on: 
-- Behind the scenes of notorious high impact stories based on whistleblowers information (Deep Throat, [Daniel Ellsberg](https://en.wikipedia.org/wiki/Daniel_Ellsberg), [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden), [John Doe](https://en.wikipedia.org/wiki/John_Doe_(Panama_Papers%27_whistleblower)
+- Behind the scenes of notorious high impact stories based on whistleblowers information (Deep Throat, [Daniel Ellsberg](https://en.wikipedia.org/wiki/Daniel_Ellsberg), [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden), [John Doe](https://en.wikipedia.org/wiki/John_Doe_Panama_Papers%27_whistleblower)
 - Other big stories? (tbd)
 
 ### Goal
